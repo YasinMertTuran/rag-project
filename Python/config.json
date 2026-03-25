@@ -1,0 +1,6 @@
+{
+  "retriever_type": "keyword",
+  "reranker_type": "jaccard",
+  "corpus_path": "corpus.json",
+  "log_path": "logs/trace.jsonl"
+}
