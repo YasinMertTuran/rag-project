@@ -1,0 +1,4 @@
+[
+{"docId":"doc-A","chunkId":0,"title":"T1","text":"Hello world"},
+{"docId":"doc-B","chunkId":1,"title":"T2","text":"Goodbye\nfriend"}
+]
